@@ -23,3 +23,105 @@ Pulsars are a rare type of Neutron star that produce radio emission detectable h
 To predict: whether star is pulsar or not(1 means star is pulsar and 0 means star is not pulsar)
 
 The Training Dataset contains 12528 instances and Test Dataset contains 5370 examples.
+
+## LeaderBoard 
+
+<table style="width:100%">
+  <tr>
+    <th>Rank</th>
+    <th> Team Name</th>
+    <th> Institute </th>
+    <th> F1 Score </th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>AeroAstro</td>
+    <td>IIT Bhubhaneshwar</td>
+    <td>0.888</td>
+  </tr>
+   <tr>
+    <td>2</td>
+    <td>Akatsuki</td>
+    <td>NSUT</td>
+    <td>0.874</td>
+  </tr>
+ <tr>
+    <td>3</td>
+    <td>Not_Important</td>
+    <td>GTBIT</td>
+    <td>0.867</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>AI-Artist</td>
+    <td>Government College Of Engineering And Leather Technology</td>
+    <td>0.863(submitted on 11/03/19 7:09 PM)</td>
+  </tr>
+   <tr>
+    <td>5</td>
+    <td>Codeword</td>
+    <td>Arya Institute of Engineering and Technology</td>
+    <td>0.863(submitted on 11/03/19 10:01 PM)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Bazinga</td>
+    <td>NSUT</td>
+    <td>0.861</td>
+  </tr>
+    <tr>
+    <td>7</td>
+    <td>Coding Botzz</td>
+    <td>NSUT</td>
+    <td>0.859</td>
+  </tr>
+    <tr>
+    <td>8</td>
+    <td>XY12</td>
+    <td>NSUT</td>
+    <td>0.858</td>
+  </tr>
+    <tr>
+    <td>9</td>
+    <td>Ask2Ans</td>
+    <td>NSUT</td>
+    <td>0.849</td>
+  </tr>
+    <tr>
+    <td>10</td>
+    <td>Pacman</td>
+    <td>NSUT</td>
+    <td>0.804</td>
+  </tr>
+    <tr>
+    <td>11</td>
+    <td>FAALTU</td>
+    <td>NSUT</td>
+    <td>0.585</td>
+  </tr>
+    <tr>
+    <td>12</td>
+    <td>AI_wiz</td>
+    <td>NIT Kurukshetra</td>
+    <td>0.550</td>
+  </tr>
+    <tr>
+    <td>13</td>
+    <td>Maverics</td>
+    <td> -- </td>
+    <td>0.337</td>
+  </tr>
+    <tr>
+    <td>14</td>
+    <td>Disco-Disco</td>
+    <td>NSUT</td>
+    <td>0.002</td>
+  </tr>
+    <tr>
+    <td>15</td>
+    <td>Jai Mata Di</td>
+    <td>NSUT</td>
+    <td>0.000</td>
+  </tr>
+  </table>
+  
