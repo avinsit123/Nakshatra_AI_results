@@ -24,6 +24,23 @@ To predict: whether star is pulsar or not(1 means star is pulsar and 0 means sta
 
 The Training Dataset contains 12528 instances and Test Dataset contains 5370 examples.
 
+## Winners 
+
+### First Prize
+AeroAstro(IIT Bhubhaneshwar)
+
+Team Members : Murtaza Vohra , Saif Ali Khan 
+
+### Second Prize
+Akatsuki(NSUT)
+
+Team Members : Ruchit Rawal
+
+### Third Prize 
+Not_Important(GTBIT)
+
+Team Members : Rajat Sharma
+
 ## LeaderBoard 
 
 <table style="width:100%">
