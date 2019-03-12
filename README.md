@@ -142,3 +142,5 @@ Team Members : Rajat Sharma
   </tr>
   </table>
   
+## Contact 
+For any information or clarification contact < a href="mailto:s.avinash.it.17@nsit.net.in"> Avinash Swaminathan</a> .
