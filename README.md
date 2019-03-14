@@ -41,6 +41,10 @@ Not_Important(GTBIT)
 
 Team Members : Rajat Sharma
 
+### Best Kernel
+Coding Botzz(NSUT)
+
+Team Members : Amarjeet Singh,Kush Ghilothia
 ## LeaderBoard 
 
 <table style="width:100%">
